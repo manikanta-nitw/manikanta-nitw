@@ -34,12 +34,12 @@ Two fully deployed e-commerce sites built with modern UI and AI-assisted automat
 - 🌐 Hosted on Netlify  
 - 📱 Mobile responsive UI  
 - 🤖 AI-based product interactions  
-✔ Tools: HTML, CSS, JavaScript, AI Tools, Netlify  
-### 🥒 Pickles Shop — AI powered storefront  
+✔ Tools: HTML, CSS, JavaScript,; AI Tools, Netlify  
+Two Real time Commerce Websites:
 **Pickles Website** — Responsive e-commerce front-end with smart search & Netlify deployment.  
 [🔗 Live site](https://spandhrapickles.netlify.app/) • [💻 Repo](https://github.com/manikanta-nitw/REPO-NAME-PICKLES)
 
-**Pickles Website** — Responsive e-commerce front-end with smart search & Netlify deployment.  
+  **Sweets  — Responsive e-commerce front-end with smart search & Netlify deployment.  
 [🔗 Live site](https://narasimhapootharekulu.netlify.app/) • [💻 Repo](https://github.com/manikanta-nitw/REPO-NAME-PICKLES)
 
 
@@ -51,7 +51,7 @@ A KNIME-based ML workflow using Random Forest to predict heart disease using sle
 - 🔍 Predictive health analytics  
 - 🧠 ML Nodes (Scorer, Partitioning, Rule Engine)  
 ✔ Tools: KNIME, Random Forest  
-🔗 *Add Repo Link*
+
 
 ---
 
@@ -61,7 +61,7 @@ Built a vibration detection alert circuit.
 - 🧲 Piezo transducer  
 - ⚡ Signal amplification + 555 monostable timing  
 ✔ Tools: LM741, NE555, BC548  
-🔗 *Add Repo Link*
+
 
 ---
 
