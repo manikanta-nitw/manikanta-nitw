@@ -13,7 +13,7 @@
 
 ---
 
-# 🚀 Featured Projects (Based on Your Resume)
+# 🚀 Featured Projects
 
 ### 🌞 **Solar-Powered IoT Environmental Monitoring & Cloud Dashboard**  
 A complete ESP32-based IoT system that monitors temperature, humidity, pressure, soil moisture & light using solar power.  
